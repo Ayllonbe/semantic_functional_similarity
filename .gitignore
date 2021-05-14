@@ -45,3 +45,12 @@ mashup
 NewGOA_code
 NMFGO_code
 PILL_Web
+# GO data
+GeneOntologyData/10.5281-*
+GeneOntologyData/3702.protein.links.v11.0.txt
+GeneOntologyData/AGI2uniprot20180728.txt
+GeneOntologyData/Araport11_TAIRlocusaccessionID_AGI_mapping.txt
+GeneOntologyData/ARATH_3702_idmapping_20-06.dat
+GeneOntologyData/athal-network_seidr.txt
+GeneOntologyData/gene_type.txt
+GeneOntologyData/dataToUse
